@@ -1,2 +1,2 @@
 # Hasselblad_camera_watermark
-使用Python实现读取exif信息，自动生成哈苏风格水印
+使用Python实现读取照片中exif信息，自动生成哈苏风格水印
